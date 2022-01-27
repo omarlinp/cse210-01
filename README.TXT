@@ -9,3 +9,4 @@ the randint function that was imported at the beginig of the code is to generate
 
 the computer_decision functions generates a new card and then changes the score of the player depeding on wether his answer was right or not and then will return the new card. 
 
+this version of the game has been developed by myself.
